@@ -1,2 +1,2 @@
 # project-picture
-to upload picture by url
+Architecutre design/work picture
